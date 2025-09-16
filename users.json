@@ -1,0 +1,8 @@
+[
+    {
+        "name": "vinay kumar",
+        "email": "cr.vinay8448@gmail.com",
+        "password": "scrypt:32768:8:1$bZIc0bMcw61OfLQc$bca626736650b329ecb2480c1a0c4a4abdca8ba093e13510318ffd54e9c0156bc29224d980524e45491020590c2c011d5c4f014398e344253c98910d1d95ea47",
+        "mood": "good"
+    }
+]
