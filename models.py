@@ -2,7 +2,7 @@ import json
 import os
 from werkzeug.security import generate_password_hash, check_password_hash
 
-DATA_FILE = "users.json"
+DATA_FILE = os.path.join("data", "users.json")
 
 def load_users():
     if not os.path.exists(DATA_FILE):
